@@ -15,7 +15,7 @@
   },
   {
     "_id": {
-      "$oid": "5950dcd2d2153ef43c3b4d1b"
+      "$oid": "1bca164b45654d9cbc9b5c72"
     },
     "nameEng": "American International School",
     "nameChi": "",
@@ -43,7 +43,7 @@
   },
   {
     "_id": {
-      "$oid": "dd99c8c8cc4af6525eb7643b"
+      "$oid": "4cd4a117283a4974b57d9cf2"
     },
     "nameEng": "American School Hong Kong",
     "nameChi": "",
@@ -71,7 +71,7 @@
   },
   {
     "_id": {
-      "$oid": "f5ce05530d5c10dfc94b90dc"
+      "$oid": "1dfd602f3a9e439fb7983f73"
     },
     "nameEng": "Carmel School (Shau Kei Wan Campus)",
     "nameChi": "",
@@ -99,7 +99,7 @@
   },
   {
     "_id": {
-      "$oid": "04af5848c2ed99089f2123c4"
+      "$oid": "271186bbbdc949eaba472795"
     },
     "nameEng": "Chinese International School",
     "nameChi": "",
@@ -127,7 +127,7 @@
   },
   {
     "_id": {
-      "$oid": "299b9a65b60faaf9b39f2f65"
+      "$oid": "a6a6c1cb9c354b3cae9cc45d"
     },
     "nameEng": "Christian Alliance International School",
     "nameChi": "",
@@ -183,7 +183,7 @@
   },
   {
     "_id": {
-      "$oid": "4833a7b438f7f13c048970c1"
+      "$oid": "16bae6b9f9644cf2b7cd4535"
     },
     "nameEng": "Discovery Bay International School",
     "nameChi": "",
@@ -211,7 +211,7 @@
   },
   {
     "_id": {
-      "$oid": "fe5879038443fd8aa8b2471c"
+      "$oid": "bb425376386243e8897d3c52"
     },
     "nameEng": "DSC International School",
     "nameChi": "",
@@ -239,7 +239,7 @@
   },
   {
     "_id": {
-      "$oid": "7e2333b0efb31c29998cfc9b"
+      "$oid": "77afc58c235946cf9a3fafb7"
     },
     "nameEng": "German Swiss International School (English) (Peak Campus)",
     "nameChi": "",
@@ -267,7 +267,7 @@
   },
   {
     "_id": {
-      "$oid": "94aa6a484cc610f4eda7138a"
+      "$oid": "820795e624eb4cf5bfd8d8b5"
     },
     "nameEng": "German Swiss International School (German) (Peak Campus)",
     "nameChi": "",
@@ -295,7 +295,7 @@
   },
   {
     "_id": {
-      "$oid": "d4f9bfb7afee45432ec5df7d"
+      "$oid": "57f0190c44da40088c75edcf"
     },
     "nameEng": "Harrow International School Hong Kong",
     "nameChi": "",
@@ -323,7 +323,7 @@
   },
   {
     "_id": {
-      "$oid": "d08d288b94c4cc96dcaf3062"
+      "$oid": "bf65e911cc754c798105b98d"
     },
     "nameEng": "Hong Kong Academy",
     "nameChi": "",
@@ -365,7 +365,7 @@
   },
   {
     "_id": {
-      "$oid": "b125b9caac9d44b5206b24a1"
+      "$oid": "b2080f2f10324d02b7735800"
     },
     "nameEng": "Hong Kong Japanese School",
     "nameChi": "",
@@ -449,7 +449,7 @@
   },
   {
     "_id": {
-      "$oid": "2080fbbaafd59d25ec759fc5"
+      "$oid": "fef85a412da94a9b8089af50"
     },
     "nameEng": "Kellett School (Pokfulam Campus)",
     "nameChi": "",
@@ -477,7 +477,7 @@
   },
   {
     "_id": {
-      "$oid": "e5e9e87f7cb5d08f209507bb"
+      "$oid": "09521e4db86c432a9b25391d"
     },
     "nameEng": "Kiangsu & Chekiang Primary School and Kiangsu-Chekiang College (Braemar Hill Road Campus)",
     "nameChi": "",
@@ -519,7 +519,7 @@
   },
   {
     "_id": {
-      "$oid": "65ef7a61e84bc87ba4116999"
+      "$oid": "157060f2878c4d5f8534a111"
     },
     "nameEng": "Korean International School (English)",
     "nameChi": "",
@@ -547,7 +547,7 @@
   },
   {
     "_id": {
-      "$oid": "7d9bcc45ecf5e341962f2461"
+      "$oid": "1e4903f7ecd8461f820fb2aa"
     },
     "nameEng": "Korean International School (Korean)",
     "nameChi": "",
@@ -589,7 +589,7 @@
   },
   {
     "_id": {
-      "$oid": "6255fbe39f4703c4cca1a0af"
+      "$oid": "d1f38a3a19cf4275855e5ab3"
     },
     "nameEng": "Malvern College Hong Kong",
     "nameChi": "",
@@ -617,7 +617,7 @@
   },
   {
     "_id": {
-      "$oid": "e0081436c081a91f052c58d6"
+      "$oid": "1579c8c1127f4425a666d741"
     },
     "nameEng": "Nord Anglia International School, Hong Kong (Kwun Tong Campus)",
     "nameChi": "",
@@ -687,7 +687,7 @@
   },
   {
     "_id": {
-      "$oid": "c146332a2862716de6f87d04"
+      "$oid": "55407c47b6aa430ba0c3a69f"
     },
     "nameEng": "Singapore International School (Hong Kong) (Police School Road Campus)",
     "nameChi": "",
@@ -715,7 +715,7 @@
   },
   {
     "_id": {
-      "$oid": "f29fb80b6d9458ab5027d69b"
+      "$oid": "05080c0b798c4972b945728b"
     },
     "nameEng": "The Harbour School (Ap Lei Chau Estate, The Grove Campus)",
     "nameChi": "",
@@ -743,7 +743,7 @@
   },
   {
     "_id": {
-      "$oid": "96539e5bbed0bfa0ee8762f0"
+      "$oid": "218297e459aa4dfba97198bd"
     },
     "nameEng": "The International Montessori School - an IMEF School (South Horizons Campus)",
     "nameChi": "",
@@ -869,7 +869,7 @@
   },
   {
     "_id": {
-      "$oid": "27b100c68bf72d625c1283e0"
+      "$oid": "90d4ecebee7d41a199eb7287"
     },
     "nameEng": "(ESF) Jockey Club Sarah Roe School",
     "nameChi": "",
@@ -1023,7 +1023,7 @@
   },
   {
     "_id": {
-      "$oid": "27492844433bd1750c41f84c"
+      "$oid": "cff2a5fddd8e435084f46225"
     },
     "nameEng": "Carmel School (Borrett Road Campus)",
     "nameChi": "",
@@ -1051,7 +1051,7 @@
   },
   {
     "_id": {
-      "$oid": "212a90fd621f8aae56219876"
+      "$oid": "3c29165ea83f40b9b37151c0"
     },
     "nameEng": "Kellett School (Kowloon Bay Campus)",
     "nameChi": "",
@@ -1079,7 +1079,7 @@
   },
   {
     "_id": {
-      "$oid": "8559de168b295e66e04ca164"
+      "$oid": "3a35bd79f6a1415e8bdc9108"
     },
     "nameEng": "The International Montessori School - an IMEF School (Stanley Campus)",
     "nameChi": "",
@@ -1107,7 +1107,7 @@
   },
   {
     "_id": {
-      "$oid": "47c225cb201b3d8c5772eb81"
+      "$oid": "f76f1809131d47e4a9961ce5"
     },
     "nameEng": "The International Montessori School - an IMEF School (Mid-Levels Campus)",
     "nameChi": "",
@@ -1135,7 +1135,7 @@
   },
   {
     "_id": {
-      "$oid": "2322b07f3111770daa782399"
+      "$oid": "3552b3f0c51442c7af81f49b"
     },
     "nameEng": "The International Montessori School - an IMEF School (Aldrich Bay Campus)",
     "nameChi": "",
@@ -1163,7 +1163,7 @@
   },
   {
     "_id": {
-      "$oid": "363d5dbb91fdd102dfa11018"
+      "$oid": "6a94ecc81ee149ca9479fcab"
     },
     "nameEng": "Australian International School Hong Kong",
     "nameChi": "",
@@ -1191,7 +1191,7 @@
   },
   {
     "_id": {
-      "$oid": "bc580a610d54e81562728d0b"
+      "$oid": "bb6e4c0f97a74ef6a2d4d751"
     },
     "nameEng": "Canadian International School",
     "nameChi": "",
@@ -1219,7 +1219,7 @@
   },
   {
     "_id": {
-      "$oid": "80b964e722ab936429bbf03b"
+      "$oid": "94d4d9b1cfbc4866a35e66fb"
     },
     "nameEng": "Lyc'ee Francais International (French International School) (English) (Tseung Kwan O Campus)",
     "nameChi": "",
@@ -1247,7 +1247,7 @@
   },
   {
     "_id": {
-      "$oid": "b6cf44c592883c9e5f690935"
+      "$oid": "00673f52f012481e9cd8cef2"
     },
     "nameEng": "Lyc'ee Francais International (French International School) (English) (Jardine's Lookout Campus)",
     "nameChi": "",
@@ -1275,7 +1275,7 @@
   },
   {
     "_id": {
-      "$oid": "86af18b9f271db5c7901881f"
+      "$oid": "822a9e2d03194e908e734c63"
     },
     "nameEng": "Lyc'ee Francais International (French International School) (French) (Tseung Kwan O Campus)",
     "nameChi": "",
@@ -1303,7 +1303,7 @@
   },
   {
     "_id": {
-      "$oid": "5bb5b0dc0b2410867f95dc26"
+      "$oid": "112a9f8af76e444c9cbc3ddf"
     },
     "nameEng": "Lyc'ee Francais International (French International School) (French) (Jardine's Lookout Campus)",
     "nameChi": "",
@@ -1331,7 +1331,7 @@
   },
   {
     "_id": {
-      "$oid": "963f81947eb5b10cba5ff72e"
+      "$oid": "419ad8631dc447e7966e3729"
     },
     "nameEng": "Lyc'ee Francais International (French International School) (French) (Chai Wan Campus)",
     "nameChi": "",
@@ -1415,7 +1415,7 @@
   },
   {
     "_id": {
-      "$oid": "c3078ce6b98eba31302c1658"
+      "$oid": "e208000bcae34d0f909628f4"
     },
     "nameEng": "ELCHK Lutheran Academy",
     "nameChi": "",
@@ -1457,7 +1457,7 @@
   },
   {
     "_id": {
-      "$oid": "52e51f1119ea9d10cf1126f7"
+      "$oid": "5e7ae0e6ae964f33ab98e854"
     },
     "nameEng": "Hong Kong Baptist University Affiliated School Wong Kam Fai Secondary and Primary School",
     "nameChi": "",
@@ -1667,7 +1667,7 @@
   },
   {
     "_id": {
-      "$oid": "227ac4bc34bf060e8b15404f"
+      "$oid": "30dff7a0038d4c90a4763373"
     },
     "nameEng": "(ESF) Discovery College",
     "nameChi": "",
@@ -1695,7 +1695,7 @@
   },
   {
     "_id": {
-      "$oid": "c413d65dfb9cc26b367ff308"
+      "$oid": "19ae06373708470d84bc32bb"
     },
     "nameEng": "International Christian School",
     "nameChi": "",
@@ -1723,7 +1723,7 @@
   },
   {
     "_id": {
-      "$oid": "4dd4a71c58815f22efcfc305"
+      "$oid": "685fd4e9669b4621aa3308b2"
     },
     "nameEng": "International Christian Quality Music Secondary and Primary School",
     "nameChi": "",
@@ -1751,7 +1751,7 @@
   },
   {
     "_id": {
-      "$oid": "dcbd823cf61fa9fb93c41b23"
+      "$oid": "c4f50f99f2b64dce9f5d8027"
     },
     "nameEng": "Po Leung Kuk Choi Kai Yau School",
     "nameChi": "",
@@ -1779,7 +1779,7 @@
   },
   {
     "_id": {
-      "$oid": "b699d5c93f26240438b6063b"
+      "$oid": "3e570dce37304cd688df8b45"
     },
     "nameEng": "(ESF) Renaissance College",
     "nameChi": "",
@@ -1807,7 +1807,7 @@
   },
   {
     "_id": {
-      "$oid": "e59feff8df4ff7e0c5cac5b4"
+      "$oid": "a551bd727b444ef3b501727d"
     },
     "nameEng": "The Independent Schools Foundation Academy",
     "nameChi": "",
@@ -1835,7 +1835,7 @@
   },
   {
     "_id": {
-      "$oid": "5cc20b387946a070ca4f8728"
+      "$oid": "ad05a64e73ac45289f03af46"
     },
     "nameEng": "Victoria Shanghai Academy",
     "nameChi": "",
@@ -1877,7 +1877,7 @@
   },
   {
     "_id": {
-      "$oid": "4a8b80c0c689d2a33af1d2ae"
+      "$oid": "62e319f409d844179f368d6c"
     },
     "nameEng": "German Swiss International School (English) (Pokfulam Campus)",
     "nameChi": "",
@@ -1905,7 +1905,7 @@
   },
   {
     "_id": {
-      "$oid": "dd7c3a026783122386430150"
+      "$oid": "816a577122a84f9e8f72bb91"
     },
     "nameEng": "Lyc'ee Francais International (French International School) (English) (Chai Wan Campus)",
     "nameChi": "",
@@ -1933,7 +1933,7 @@
   },
   {
     "_id": {
-      "$oid": "eb012891c7419dff36a65066"
+      "$oid": "e27d0cf2934d43d1928199ab"
     },
     "nameEng": "Lyc'ee Francais International (French International School) (English) (Blue Pool Road Campus)",
     "nameChi": "",
@@ -1961,7 +1961,7 @@
   },
   {
     "_id": {
-      "$oid": "03a1fc785fb6a6080708929b"
+      "$oid": "9b3442ed830446d5a97d2639"
     },
     "nameEng": "Lyc'ee Francais International (French International School) (French) (Blue Pool Road Campus)",
     "nameChi": "",
@@ -2017,7 +2017,7 @@
   },
   {
     "_id": {
-      "$oid": "0aa53b1a0f6a52f025f66824"
+      "$oid": "2bd32f1ea256418183b8ddf9"
     },
     "nameEng": "German Swiss International School (German) (Pokfulam Campus)",
     "nameChi": "",
@@ -2059,7 +2059,7 @@
   },
   {
     "_id": {
-      "$oid": "6adcc7058a3c8c0a0bdaf4b7"
+      "$oid": "edd8f1da0eb446a69ca33e10"
     },
     "nameEng": "Kiangsu & Chekiang Primary School and Kiangsu-Chekiang College (Ching Wah Street Campus)",
     "nameChi": "",
@@ -2087,7 +2087,7 @@
   },
   {
     "_id": {
-      "$oid": "ee780a02d7f28f614fb2c082"
+      "$oid": "29a997873e0a451a944799ac"
     },
     "nameEng": "Nord Anglia International School, Hong Kong (Lam Tin Campus)",
     "nameChi": "",
@@ -2115,7 +2115,7 @@
   },
   {
     "_id": {
-      "$oid": "47101aa4695b712aacc5b88d"
+      "$oid": "1a6a681fb509437bad11e269"
     },
     "nameEng": "Singapore International School (Hong Kong) (Nam Long Shan Road Campus)",
     "nameChi": "",
@@ -2143,7 +2143,7 @@
   },
   {
     "_id": {
-      "$oid": "32a40d5dd222f80aa45c8c70"
+      "$oid": "75167c639bab4b238195c4d5"
     },
     "nameEng": "The Harbour School (Ap Lei Chau Centre, The Garden Campus)",
     "nameChi": "",
